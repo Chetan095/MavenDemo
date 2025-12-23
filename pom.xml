@@ -14,11 +14,10 @@
 
         <!-- TestNG -->
         <dependency>
-            <groupId>org.testng</groupId>
-            <artifactId>testng</artifactId>
-            <version>7.9.0</version>
-            <scope>test</scope>
-        </dependency>
+    <groupId>org.testng</groupId>
+    <artifactId>testng</artifactId>
+    <version>7.9.0</version>
+</dependency>
 
         <!-- Apache POI (Excel) -->
         <dependency>
